@@ -77,7 +77,7 @@ const ProfileBox = () => {
             <div className={labelContainerStyles}>
                 <label className={labelStyles}>Galadriel.CSS</label>
                 <p className={descriptionStyles}>
-                    JavaScript object-based approach for style creation.
+                    JavaScript object-based approach to create styles, with a focus on utility-first CSS classes.
                 </p>
             </div>
         </div>

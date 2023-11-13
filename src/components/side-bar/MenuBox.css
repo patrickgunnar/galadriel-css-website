@@ -1,0 +1,37 @@
+.galadriel_7baae10c-638c { width: 100% }
+.galadriel_62cefb67-638c { height: 100% }
+.galadriel_3bb5cb56-638c { height: 7% }
+.galadriel_d90d5ffc-638c { height: 93% }
+.galadriel_59ca7688-638c { height: auto }
+.galadriel_95e2dcfd-638c { padding: 15px }
+.galadriel_b5675348-638c { padding: 5px }
+.galadriel_e7e9b140-638c { padding: 10px }
+.galadriel_646e879a-638c { padding: 20px }
+.panel-flex-638c { display: flex }
+.flex-orientation-column-638c { flex-direction: column }
+.organize-content-center-638c { justify-content: center }
+.organize-content-start-638c { justify-content: start }
+.adjust-end-638c { align-items: end }
+.adjust-center-638c { align-items: center }
+.galadriel_f4a981a5-638c { background-image: linear-gradient(to right top, #ffd700, #ffca2d, #ffbe44, #ffb456, #ffab66) }
+.galadriel_7f31eba8-638c { background-image: linear-gradient(to right top, #f16e22, #f06228, #ed552d, #eb4733, #e73838) }
+.galadriel_364f10e6-638c:hover { background-image: linear-gradient(to right top, #ff4500, #f95c0f, #f36e1f, #ed7d2f, #e78a40) }
+.galadriel_9b6965fc-638c { border: none }
+.galadriel_496bd01b-638c { border: 1px solid rgba(0,0,0,0.4) }
+.galadriel_30a39dd9-638c { font-size: 14px }
+.galadriel_4c2c54b1-638c { font-size: 16px }
+.galadriel_fb967019-638c { font-weight: 600 }
+.galadriel_4a831c35-638c { text-align: center }
+.galadriel_b33886c5-638c { text-align: left }
+.galadriel_38f09ce6-638c { color: #000000 }
+.galadriel_941189dd-638c { gap: 8px }
+.galadriel_3165772b-638c { border-radius: 15px }
+.galadriel_5460a068-638c { border-radius: 8px }
+.galadriel_78e1ded3-638c { box-shadow: 0 6px 10px rgba(0,0,0,0.4) }
+.galadriel_4936ff74-638c { cursor: pointer }
+.galadriel_5a13b7d8-638c { overflow: hidden }
+.galadriel_d5c5fbcc-638c { overflow-y: auto }
+.box-scale-border-box-638c { box-sizing: border-box }
+@media screen and  (min-width: 1200px) { 
+	.galadriel_3ab646bf-a262-638c { height: 80% }
+ }

@@ -1,0 +1,9 @@
+.galadriel_3186afd0-f91a { width: 18% }
+.galadriel_62cefb67-f91a { height: 100% }
+.panel-hidden-f91a { display: none }
+.flex-orientation-column-f91a { flex-direction: column }
+.organize-content-space-between-f91a { justify-content: space-between }
+.adjust-center-f91a { align-items: center }
+@media screen and  (min-width: 992px) { 
+	.panel-flex-d149-f91a { display: flex }
+ }

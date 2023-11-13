@@ -1,0 +1,50 @@
+.galadriel_7baae10c-06f6 { width: 100% }
+.galadriel_575d7fd5-06f6 { width: auto }
+.galadriel_fd374363-06f6 { height: 45px }
+.galadriel_62cefb67-06f6 { height: 100% }
+.galadriel_59ca7688-06f6 { height: auto }
+.galadriel_0ad9d368-06f6 { margin: auto }
+.galadriel_93c38726-06f6 { margin: auto 10px }
+.galadriel_eb005fca-06f6 { padding: 7px }
+.galadriel_b83dad95-06f6 { padding: 5px 10px }
+.galadriel_9a2be4c2-06f6 { padding: 5px 15px }
+.panel-flex-06f6 { display: flex }
+.panel-hidden-06f6 { display: none }
+.set-relative-06f6 { position: relative }
+.organize-content-space-between-06f6 { justify-content: space-between }
+.organize-content-center-06f6 { justify-content: center }
+.adjust-center-06f6 { align-items: center }
+.match-content-center-06f6 { align-content: center }
+.galadriel_0ec21e7a-06f6 { background: transparent }
+.galadriel_f4a981a5-06f6 { background-image: linear-gradient(to right top, #ffd700, #ffca2d, #ffbe44, #ffb456, #ffab66) }
+.galadriel_364f10e6-06f6:hover { background-image: linear-gradient(to right top, #ff4500, #f95c0f, #f36e1f, #ed7d2f, #e78a40) }
+.galadriel_07aaa2c1-06f6 { background-image: linear-gradient(to right top, #e5c102, #eab21a, #eca429, #eb9635, #e78a40) }
+.galadriel_9b6965fc-06f6 { border: none }
+.galadriel_31244b1b-06f6 { font-family: 'Metamorphous', serif }
+.galadriel_85360a11-06f6 { font-family: 'AlegreyaSansSC', sans-serif }
+.galadriel_c33da8e4-06f6 { font-size: 18px }
+.galadriel_4b9cce52-06f6 { font-size: 15px }
+.galadriel_5d19c75f-06f6 { font-weight: bold }
+.galadriel_151f12b7-06f6 { font-weight: 500 }
+.arrange-text-center-06f6 { text-align: center }
+.galadriel_85f03020-06f6 { line-height: 23px }
+.galadriel_38f09ce6-06f6 { color: #000000 }
+.galadriel_e8b8df21-06f6 { text-decoration: none }
+.text-mutate-capitalize-06f6 { text-transform: capitalize }
+.galadriel_db21dfdf-06f6 { transform: translateX(0%) }
+.galadriel_f011339b-06f6 { gap: 20px }
+.galadriel_2896bd10-06f6 { border-radius: 5px }
+.galadriel_78e1ded3-06f6 { box-shadow: 0 6px 10px rgba(0,0,0,0.4) }
+.galadriel_4936ff74-06f6 { cursor: pointer }
+.galadriel_8bab2cac-06f6 { left: 0% }
+.galadriel_be97dfd6-06f6 { list-style: none }
+.box-scale-border-box-06f6 { box-sizing: border-box }
+.galadriel_9cfcfff5-06f6 { transition: background-color 0.3s ease }
+@media screen and  (min-width: 768px) { 
+	.panel-flex-4bc7-06f6 { display: flex }
+ }
+@media screen and  (min-width: 992px) { 
+	.set-absolute-d149-06f6 { position: absolute }
+	.galadriel_6dec892c-d149-06f6 { left: 50% }
+	.galadriel_34d1c6b0-d149-06f6 { transform: translateX(-50%) }
+ }

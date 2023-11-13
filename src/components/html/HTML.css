@@ -1,0 +1,25 @@
+.galadriel_fad704bb-12a2 { width: 100vw }
+.galadriel_7baae10c-12a2 { width: 100% }
+.galadriel_aa284331-12a2 { height: 100vh }
+.galadriel_62cefb67-12a2 { height: 100% }
+.galadriel_c18ef348-12a2 { height: 82% }
+.galadriel_f62e8029-12a2 { padding: 0px 10px }
+.panel-flex-12a2 { display: flex }
+.flex-orientation-column-12a2 { flex-direction: column }
+.organize-content-space-between-12a2 { justify-content: space-between }
+.adjust-center-12a2 { align-items: center }
+.galadriel_d762a722-12a2 { background-image: linear-gradient(to right top, #ff4500, #c42626, #831a2a, #43141f, #000000) }
+.galadriel_9a71722c-12a2 { background-repeat: no-repeat }
+.galadriel_bd2605e5-12a2 { font-family: 'Poppins', sans-serif }
+.galadriel_29063b2d-12a2 { min-height: 1000px }
+.galadriel_ba1a98e7-12a2 { min-width: 100vw }
+.galadriel_5a13b7d8-12a2 { overflow: hidden }
+.galadriel_d5c5fbcc-12a2 { overflow-y: auto }
+.galadriel_7bc20933-12a2 { user-select: none }
+@media screen and  (min-width: 768px) { 
+	.galadriel_f8476f71-4bc7-12a2 { padding: 0px 20px }
+	.galadriel_3ab646bf-4bc7-12a2 { height: 80% }
+ }
+@media screen and  (min-width: 992px) { 
+	.galadriel_9e524e4e-d149-12a2 { padding: 0px 50px }
+ }

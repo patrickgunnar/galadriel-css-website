@@ -1,0 +1,4 @@
+{
+    "module": true,
+    "exclude": ["node_modules"]
+}

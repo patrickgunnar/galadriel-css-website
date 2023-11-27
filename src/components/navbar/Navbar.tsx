@@ -163,7 +163,7 @@ const Navbar = () => {
                         >
                             <SiGithub size={22} />
                         </button>
-                        <div className={versionStyles}>1.0.0-beta.0.2.2</div>
+                        <div className={versionStyles}>1.0.0-beta.0.3.0</div>
                     </div>
                 </div>
             </div>

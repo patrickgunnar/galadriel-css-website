@@ -62,12 +62,14 @@ const MenuBox = () => {
         fontSize: "16px",
         fontWeight: "600",
         textAlign: "left",
+        transition: "transform 0.3s",
         padding: "20px",
         height: "auto",
         width: "100%",
         hover: {
             backgroundImage:
                 "linear-gradient(to right top, #ff4500, #f95c0f, #f36e1f, #ed7d2f, #e78a40)",
+            transform: "scale(0.95)",
         },
     }));
 

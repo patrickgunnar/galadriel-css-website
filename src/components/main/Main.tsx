@@ -17,7 +17,7 @@ const Main: React.FC<MainProps> = ({ children }) => {
         display: "$panel-flex",
         alignItems: "$adjust-flex-start",
         justifyContent: "$organize-content-center",
-        padding: "15px",
+        padding: "30px",
         height: "100%",
         width: "100%",
         minStandardDesktops: {

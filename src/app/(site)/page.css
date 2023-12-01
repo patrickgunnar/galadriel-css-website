@@ -1,11 +1,26 @@
 .galadriel_7baae10c-6022 { width: 100% }
+.galadriel_217f8be2-6022 { width: 80% }
 .galadriel_62cefb67-6022 { height: 100% }
+.galadriel_9b2d8ee0-6022 { height: 6% }
+.galadriel_19ed0f14-6022 { height: 88% }
+.galadriel_4bb077e2-6022 { padding-bottom: 0px }
 .panel-flex-6022 { display: flex }
-.flex-orientation-column-6022 { flex-direction: column }
-.flex-enclose-wrap-6022 { flex-wrap: wrap }
+.galadriel_481ca7c6-6022 { display: flex }
+.galadriel_5b5f1d16-6022 { flex-direction: column }
 .organize-content-start-6022 { justify-content: start }
-.adjust-stretch-6022 { align-items: stretch }
-.match-content-start-6022 { align-content: start }
+.galadriel_c25c777a-6022 { justify-content: center }
+.galadriel_9bc99bfc-6022 { justify-content: start }
+.adjust-center-6022 { align-items: center }
+.galadriel_3d2707bb-6022 { align-items: center }
+.galadriel_0cd7b776-6022 { align-items: start }
 .galadriel_0ec21e7a-6022 { background: transparent }
-.galadriel_4441d483-6022 { gap: 50px }
+.galadriel_7f31eba8-6022 { background-image: linear-gradient(to right top, #f16e22, #f06228, #ed552d, #eb4733, #e73838) }
+.galadriel_496bd01b-6022 { border: 1px solid rgba(0,0,0,0.4) }
+.galadriel_4c2c54b1-6022 { font-size: 16px }
+.galadriel_5d19c75f-6022 { font-weight: bold }
+.galadriel_f7f354ef-6022 { gap: 6% }
+.galadriel_9207694a-6022 { gap: 10px }
+.galadriel_5460a068-6022 { border-radius: 8px }
 .excess-hidden-6022 { overflow: hidden }
+.galadriel_5a13b7d8-6022 { overflow: hidden }
+.galadriel_d5c5fbcc-6022 { overflow-y: auto }

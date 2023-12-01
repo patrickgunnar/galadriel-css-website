@@ -1,11 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { BiSolidBeenHere } from "react-icons/bi";
+import { homeData } from "@/data/homeData";
 
 const initialState = {
     content: {
-        title: "Introduction",
-        data: "JavaScript object-based approach for style creation - HOME",
-        menu: [{ title: "Introduction", path: "#", Icon: BiSolidBeenHere }],
+        menu: homeData.menu,
+        content: homeData.intro
     },
 };
 
@@ -15,11 +14,8 @@ const homeSlice = createSlice({
     reducers: {
         introductionHandler(store) {
             store.content = {
-                title: "Introduction",
-                data: "JavaScript object-based approach for style creation - HOME",
-                menu: [
-                    { title: "Introduction", path: "#", Icon: BiSolidBeenHere },
-                ],
+                menu: homeData.menu,
+                content: homeData.intro,
             };
         },
     },
